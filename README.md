@@ -1,4 +1,4 @@
-# PowerBI_dashboard
+# E-CommerceSales_PowerBI_dashboard
 
 Project Title: E-Commerce Sales Dashboard
 Project Description:
